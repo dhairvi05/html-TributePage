@@ -1,0 +1,11 @@
+h1, p {
+    text-align: center;
+  }
+  ul > p {
+    font-family: Italic;
+  }
+  img {
+    display: block;
+    image-orientation: center;
+    max-width: 100%;
+  }
